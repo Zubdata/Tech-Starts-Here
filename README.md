@@ -13,10 +13,9 @@ To begin your journey, please click [here](/Tech%20Starts%20Here/get%20started/g
 
 Your contributions are greatly valued in this project, and you can participate in the following ways:
 
-1. Add new content
-2. Enhance existing content
+- Add new content or Improve existing content by adding content according to your knowledge and experience
 
-Feel free to create new directories dedicated to specific tech fields and contribute content accordingly. You can also make improvements to the existing files.
+Feel free to create new directories dedicated to specific tech fields and add content accordingly. You can also make improvements to the existing files.
 
 ### Guidelines for Contribution:
 
